@@ -1,0 +1,16 @@
+:host {
+    width: 100%;
+}
+
+
+.dots {
+    cursor: pointer;
+}
+.dot {
+    width: 6px;
+    height: 6px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+    background: black;
+    display: block;
+}
